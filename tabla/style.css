@@ -1,0 +1,17 @@
+.naranjo {
+    background-color: #F7994D !important;
+
+    }
+td, th {
+    border: 2px solid #1a1818;
+    text-align: center;
+    padding: 8px;
+  }
+table{border-collapse: collapse; width: 400px; text-transform: capitalize;
+}
+tr:nth-child(odd) {
+    background-color: #527FBC;
+}
+tr:nth-child(even) {
+    background-color: #C7DAF1;
+}

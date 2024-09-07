@@ -1,0 +1,22 @@
+body{
+    background-image: url('waja.jpg');
+    background-size: cover;
+    background-position: center;
+}
+form{
+width: 50%;
+margin:0 auto;
+padding: 20px;    
+}
+div{
+    margin:0 auto;
+}
+label{
+    font-weight: bold;
+    font-size: x-large;
+}
+body{
+    width: 200px;
+    padding: 5px;
+
+}
