@@ -33,5 +33,10 @@ body{
     text-align: center;
     width: 300px;
     box-shadow: 0 4px 8px rgb(0, 0, 0);
-    }   
-
+}   
+.box-enlaces{
+    justify-content: center;
+    margin: auto;
+    display: flex;
+    margin-top:20px;
+}
